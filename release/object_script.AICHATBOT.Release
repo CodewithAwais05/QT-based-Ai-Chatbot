@@ -1,0 +1,12 @@
+release/fileuploader.o
+release/main.o
+release/mainwindow.o
+release/chatbot.o
+release/message.o
+release/filehandler.o
+release/user.o
+release/voicerecorder.o
+release/moc_fileuploader.o
+release/moc_mainwindow.o
+release/moc_chatbot.o
+release/moc_voicerecorder.o
